@@ -2,18 +2,18 @@
     {
     
     
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/?size=48&id=74402&format=png&color=000000"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/?size=48&id=A3Ulk2RcONKs&format=png&color=000000"
     },
     
     
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=48&id=59952&format=png&color=000000"
     },
     
     {
@@ -33,12 +33,12 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "Go",
+        "icon": "https://img.icons8.com/?size=48&id=E9cG1hfGzMxj&format=png&color=000000"
     },
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "name": "Hibernate",
+        "icon": "https://img.icons8.com/?size=48&id=Vt12k4MqMz61&format=png&color=000000"
     },
     {
         "name": "Python",
@@ -53,19 +53,18 @@
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
-   
   
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+        "name": "Django",
+        "icon": "https://img.icons8.com/?size=48&id=qV-JzWYl9dzP&format=png&color=000000"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "Logstash",
+        "icon": "https://img.icons8.com/?size=48&id=COGDdXNGIF6r&format=png&color=000000"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Nodejs",
+        "icon": "https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png&color=000000"
     },
     
     {
@@ -77,7 +76,83 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "Kibana",
+        "icon": "https://img.icons8.com/?size=48&id=viVPreeQBfSH&format=png&color=000000"
+    },
+    {
+        "name": "Express",
+        "icon": "https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/?size=48&id=j9DnICNnlhGk&format=png&color=000000"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/?size=48&id=bzf0DqjXFHIW&format=png&color=000000"
+    },
+    
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=48&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/?size=48&id=81727&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png&color=000000"
+    },
+    {
+        "name": "Helm",
+        "icon": "https://img.icons8.com/?size=48&id=Oxat3eyErEv9&format=png&color=000000"
+    },
+    
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/?size=48&id=39292&format=png&color=000000"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png&color=000000"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/?size=48&id=6aZUcUt6WjzU&format=png&color=000000"
+    }  ,
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/?size=48&id=iGCCE2iEmh2u&format=png&color=000000"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/?size=48&id=eOZdMdtLeGdv&format=png&color=000000"
+    },
+    
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/?size=48&id=fOhLNqGJsUbJ&format=png&color=000000"
+    },
+    {
+        "name": "Splunk",
+        "icon": "https://img.icons8.com/?size=48&id=49188&format=png&color=000000"
+    }  ,
+    {
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png&color=000000"
+    },
+    {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png&color=000000"
+    },
+    
+    {
+        "name": "Distributed Systems",
+        "icon": "https://img.icons8.com/?size=48&id=f41c4Ing5dsB&format=png&color=000000"
+    }
 ]
