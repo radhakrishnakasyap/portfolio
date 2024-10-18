@@ -39,9 +39,9 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_iLwvqcOmTVd55k20p");
+        emailjs.init("a_NR2OPvHm2Rc5s2I");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+        emailjs.sendForm('service_baqwmcc', 'template_wrnfe6i', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | KIRAN KUMAR U";
+            document.title = "Portfolio | Radha Krishna Kasyap Pasumarthy";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
